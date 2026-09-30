@@ -1,0 +1,16 @@
+.git
+.gitignore
+__pycache__
+*.py[cod]
+*.egg-info
+.pytest_cache
+.venv
+.env
+.env.*
+output
+occurrences.csv
+inventory.json
+errors.csv
+.actions-inventory-cache.json
+*.pem
+*.key
